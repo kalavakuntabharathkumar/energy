@@ -1,0 +1,11 @@
+state,month,consumption_mwh
+California,2024-01-01,19000000
+California,2024-02-01,18400000
+California,2024-03-01,18100000
+Texas,2024-01-01,21000000
+Texas,2024-02-01,20500000
+Texas,2024-03-01,22000000
+New York,2024-01-01,9200000
+New York,2024-02-01,8900000
+New York,2024-03-01,9500000
+Unknown,2024-03-01,not-a-number
